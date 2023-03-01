@@ -1,1 +1,31 @@
+.fc-tab-contianer{
+    position: relative;
+    background-color: rgb(240, 247, 247);
+    height: 600px;
+    width: 1200px;
+    background-color: blueviolet;
 
+}
+.fc-mobile-contianer{
+    position: absolute;
+    width: 280px;
+    height: 440px;
+    background-color: rgb(234, 241, 247);
+    top: 86px;
+    margin-left: 480px;
+    justify-content: center;
+    border-radius: 10px;
+}
+.fc-img-container img{
+    border: 1px solid white;
+    border-radius: 5px;
+}
+.fc-icons-container .fa{
+    margin-left: 40px;
+    padding-top: 5px;
+    /* display: block; */
+    /* justify-content: center; */
+}
+.fcc-tab-contianer{
+    width: 100%;
+}
